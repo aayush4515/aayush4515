@@ -3,7 +3,6 @@
   <a href="mailto:aayushacharya1545@gmail.com">📧 Email</a> •
   <a href="https://aayushcodes.com">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/aayush4515/">💼 LinkedIn</a> •
-  <a href="https://github.com/aayush4515">🧑‍💻 GitHub</a>
 </p>
 
 ---
