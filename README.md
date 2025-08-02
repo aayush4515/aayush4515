@@ -15,7 +15,7 @@
 
 - 🎓 **CS + Math @ Elmhurst University** | GPA: 3.96  
 - 🧠 Exploring **AI**, **Quant Finance**, and **Backend Systems**  
-- 🛠️ Currently building: A* Search Visualizer | JWT Auth System | Finance Dashboards  
+- 🛠️ Currently building: AI Tutoring Assistant | Interpreter | Neural Nets  
 - 🌍 Passionate about using tech to **solve real-world problems**
 
 ---
