@@ -8,7 +8,6 @@
   <a href="mailto:aayushacharya1545@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://aayushcodes.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Firefox&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aayush4515/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/aayush4515"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
