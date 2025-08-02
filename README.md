@@ -1,9 +1,10 @@
 <h1 align="center">Hey there! I'm Aayush Acharya 👋</h1>
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=AI+%7C+Finance+%7C+Fullstack+Developer;I+code+for+impact+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+React+%7C+FastAPI+%7C+TailwindCSS" alt="Typing SVG" />
 </p>
-
+!-->
 <p align="center">
   <a href="mailto:aayushacharya1545@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://aayushcodes.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Firefox&logoColor=white"/></a>
