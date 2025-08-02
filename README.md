@@ -1,55 +1,82 @@
 <h1 align="center">Hey there! I'm Aayush Acharya 👋</h1>
+
 <p align="center">
-  <a href="mailto:aayushacharya1545@gmail.com">📧 Email</a> •
-  <a href="https://aayushcodes.com">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/aayush4515/">💼 LinkedIn</a> •
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=AI+%7C+Finance+%7C+Fullstack+Developer;I+code+for+impact+%F0%9F%92%BB;Python+%7C+C%2B%2B+%7C+React+%7C+FastAPI+%7C+TailwindCSS" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:aayushacharya1545@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://aayushcodes.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aayush4515/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aayush4515"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-🎓 **Computer Science + Mathematics @ Elmhurst University** (Class of 2026)  
-🔍 Passionate about **AI**, **quant finance**, and building **high-performance systems**.  
-🚀 Currently exploring backend systems, C++ projects, and AI-powered developer tools.
+### 📚 About Me
+
+- 🎓 **CS + Math @ Elmhurst University** | GPA: 3.96  
+- 🧠 Exploring **AI**, **Quant Finance**, and **Backend Systems**  
+- 🛠️ Currently building: A* Search Visualizer | JWT Auth System | Finance Dashboards  
+- 🌍 Passionate about using tech to **solve real-world problems**
 
 ---
 
-### 💼 Work Experience
+### 🧰 Tech Stack
 
-- **Articulation Assistant**, *Elmhurst University*
-  - Automated student enrollment processing in C++ → ⏱️ 90% faster
-  - Streamlined transfer credit evaluations and maintained 100% data accuracy
-
-- **Math Tutor**, *Learning Center*
-  - 200+ tutoring sessions in Calculus & Algebra
-  - Led workshops that boosted exam performance across campus
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,tailwind,fastapi,docker,git,linux,html,css,sql,netlify,vercel,github,mysql,vscode&perline=9" />
+</p>
 
 ---
 
-### 🛠️ Featured Projects
+### 🔥 GitHub Stats
 
-- **🤖 AI Tutoring Assistant**  
-  *Python, FastAPI, React, Tailwind, OpenAI API*  
-  → Piloted in Elmhurst’s CS courses to help students transition from Python to C++
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush4515&show_icons=true&theme=tokyonight&hide=contribs,prs" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4515&theme=tokyonight" height="180em"/>
+</p>
 
-- **📈 SMA Strategy Backtester**  
-  *Python, Pandas, yfinance, Matplotlib*  
-  → Evaluates trading strategies using historical data and visual analytics
-
-- **🖥️ UNIX Shell (in C++)**  
-  → Built a full-featured command-line shell with piping, I/O redirection, and autocompletion
-
-- **🌐 HTTP Web Server (in C++)**  
-  → Multithreaded server with dynamic file serving, routing, gzip, and echo endpoints
-
-- **🧩 ASP.NET Web App**  
-  → Multi-page app with SQL Server backend, user auth, and responsive design
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4515&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
-### 🧠 Technical Toolbox
+### 💼 Experience Highlights
 
-```txt
-Languages:     C++, Python, Java, JavaScript, C#
-Web Stack:     React, FastAPI, TailwindCSS, Bootstrap, ASP.NET
-Dev Tools:     Git, Docker, Linux, Bash, Vercel, Render
-Data Skills:   SQL, Pandas, NumPy, Matplotlib
+- 🔧 **Articulation Assistant** @ Elmhurst Admissions  
+  → Automated student data workflows in C++ (90% faster)
+
+- 📘 **Math Tutor** @ Elmhurst Learning Center  
+  → Delivered 200+ sessions in Calculus & Algebra
+
+---
+
+### 🚀 Featured Projects
+
+- 🤖 **AI Tutoring Assistant** – React + FastAPI + OpenAI API  
+- 📊 **SMA Backtester** – Strategy analytics on yfinance data  
+- 🐚 **Custom UNIX Shell** – With REPL, piping, and I/O  
+- 🌐 **HTTP Web Server** – Multithreaded C++ backend  
+- 📬 **ASP.NET Web App** – Full CRUD with SQL Server
+
+---
+
+### 🏏 Leadership & Fun
+
+- 🇳🇵 Secretary @ South Asian Students Association  
+- ⚽ Cricket Club Co-Organizer  
+- 📈 Always learning & building at the intersection of tech and finance
+
+---
+
+### 📫 Let's Connect
+
+I'm open to research, internships, and open-source collaborations!  
+📧 aayushacharya1545@gmail.com  
+🌐 [aayushcodes.com](https://aayushcodes.com)
+
+---
+
+⭐ *Thanks for stopping by! If you like my work, give it a ⭐ or connect with me.*
