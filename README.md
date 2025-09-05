@@ -53,7 +53,8 @@
 
 ### 🚀 Featured Projects
 
-- 🤖 **AI Tutoring Assistant** – React + FastAPI + OpenAI API  
+- 🤖 **AI Tutoring Chat Assistant** – React + FastAPI + OpenAI API
+- **MNIST Digits Classifier, Neutal Nets** - Python, NumPy
 - 📊 **SMA Backtester** – Strategy analytics on yfinance data  
 - 🐚 **Custom UNIX Shell** – With REPL, piping, and I/O  
 - 🌐 **HTTP Web Server** – Multithreaded C++ backend  
@@ -63,6 +64,7 @@
 
 ### 🏏 Leadership & Fun
 
+- 🧑‍💼 Co founder and President @ Elmhurst Computer Science Club
 - 🇳🇵 Secretary @ South Asian Students Association  
 - ⚽ Cricket Club Co-Organizer  
 - 📈 Always learning & building at the intersection of tech and finance
