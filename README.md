@@ -15,7 +15,7 @@
 
 - 🎓 **CS + Math @ Elmhurst University** | GPA: 3.96  
 - 🧠 Exploring **AI**, **Quant Finance**, and **Backend Systems**  
-- 🛠️ Currently building: AI Tutoring Assistant | Interpreter | Neural Nets  
+- 🛠️ Currently learning: **Full Stack Web Development**
 - 🌍 Passionate about using tech to **solve real-world problems**
 
 ---
@@ -44,10 +44,10 @@
 ### 💼 Experience Highlights
 
 - 🔧 **Articulation Assistant** @ Elmhurst Admissions  
-  → Automated student data workflows in C++ (90% faster)
+  → Automated student data workflows in C++ (70% faster)
 
 - 📘 **Math Tutor** @ Elmhurst Learning Center  
-  → Delivered 200+ sessions in Calculus & Algebra
+  → Delivered 300+ sessions in Calculus & Algebra
 
 ---
 
