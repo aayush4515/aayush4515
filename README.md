@@ -15,7 +15,7 @@
 
 - 🎓 **CS + Math @ Elmhurst University** | GPA: 3.96  
 - 🧠 Exploring **AI**, **Quant Finance**, and **Backend Systems**  
-- 🛠️ Currently learning: **Full Stack Web Development**
+- 🛠️ Currently learning: **Full Stack Web Development & Mobile Development**
 - 🌍 Passionate about using tech to **solve real-world problems**
 
 ---
