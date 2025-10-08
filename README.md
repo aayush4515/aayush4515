@@ -13,7 +13,8 @@
 
 ### 📚 About Me
 
-- 🎓 **CS + Math @ Elmhurst University** | GPA: 3.96  
+- 🎓 **CS + Math @ Elmhurst University** | GPA: 3.96
+- 🚀 **Winner of NASA International Space Apps Challenge - Chicago, 2025**
 - 🧠 Exploring **AI**, **Quant Finance**, and **Backend Systems**  
 - 🛠️ Currently learning: **Full Stack Web Development & Mobile Development**
 - 🌍 Passionate about using tech to **solve real-world problems**
