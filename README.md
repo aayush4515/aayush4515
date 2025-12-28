@@ -40,11 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4515&layout=compact&theme=tokyonight" height="180em"/>
 </p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush4515" />
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=aayush4515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
