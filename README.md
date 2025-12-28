@@ -31,14 +31,15 @@
 
 ### 🔥 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush4515&show_icons=true&theme=tokyonight&hide=contribs,prs" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4515&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4515&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+</p> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush4515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
