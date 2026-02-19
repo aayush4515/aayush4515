@@ -24,7 +24,7 @@ I care about writing clean systems, understanding what’s happening under the h
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,tailwind,fastapi,docker,git,linux,html,css,netlify,vercel,github,mysql,vscode,cs&perline=9" /> </p> --- ### 🔥 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aayush4515&show_icons=true&theme=tokyonight&hide=contribs,prs" height="180em"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,tailwind,fastapi,docker,git,linux,html,css,netlify,vercel,github,mysql,vscode,cs&perline=9" /> </p> 
 </p>
 
 **Languages:** C++, Python, C#, JavaScript, SQL  
