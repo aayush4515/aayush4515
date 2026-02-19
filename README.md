@@ -11,7 +11,7 @@
 ### 📚 About Me
 
 - 🎓 **Computer Science & Mathematics @ Elmhurst University** | GPA: 3.97  
-- 💼 **Software Engineering Intern @ A2Z Imaging** (C++/Qt, .NET)  
+- 💼 **Software Engineering Intern @ A2Z Imaging** (C++/Qt, C#, .NET)  
 - 🤖 Former **AI Agent Developer Intern @ Psycray Corp**  
 - 🚀 **NASA Space Apps Challenge Winner (2025)** – Galactic Impact Award  
 - 🧠 Interested in **Backend Systems, AI Engineering, and High-Performance Software**
