@@ -29,7 +29,7 @@
 
 ---
 
-<!--### 🔥 GitHub Stats
+### 🔥 GitHub Stats
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayush4515&show_icons=true&theme=tokyonight&hide=contribs,prs" height="180em"/>
@@ -41,7 +41,6 @@
 </p> 
 
 ---
--->
 
 ### 💼 Experience Highlights
 
