@@ -14,7 +14,7 @@
 
 ### About
 
-I'm a software engineer at **A2Z Imaging**, building software at the intersection of **C++, hardware integration, and medical imaging**. I enjoy working across the stack—from systems and backend services to computer vision and practical AI applications.
+I am a software engineer at **A2Z Imaging**, building software at the intersection of **C++, hardware integration, and medical imaging**. I enjoy working across the stack—from systems and backend services to computer vision and practical AI applications.
 
 I graduated from **Elmhurst University** with a B.S. in **Computer Science & Mathematics** (3.97 GPA), earning the Presidential Awards in both disciplines.
 
@@ -37,6 +37,14 @@ I graduated from **Elmhurst University** with a B.S. in **Computer Science & Mat
 **Languages:** C/C++, Python, C#, JavaScript, SQL  
 **Frameworks & libraries:** FastAPI, .NET, Qt, NumPy, Pandas  
 **Systems & tools:** Linux, Git, REST APIs, OpenCV, n8n
+
+### Beyond code
+
+Interested in **low-level programming, computer vision, and financial markets**. I also enjoy competitive programming and building things at hackathons.
+
+<p align="center">
+  <sub>Thanks for stopping by. Explore my repositories or <a href="mailto:aayushacharya1545@gmail.com">say hello</a>.</sub>
+</p>
 
 ### Beyond code
 
