@@ -1,7 +1,7 @@
 <h1 align="center">Aayush Acharya</h1>
 
 <p align="center">
-  <strong>Software Engineer · C++ / Python · Systems, Computer Vision & AI</strong>
+  <strong>Software Engineer · C++ / Python · Systems, Backend & AI</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About
 
-I am a software engineer at **A2Z Imaging**, building software at the intersection of **C++, hardware integration, and medical imaging**. I enjoy working across the stack, from systems and backend services to computer vision and practical AI applications.
+I am a software engineer at A2Z Imaging, working on C++ applications, backend services, and hardware-integrated software for medical imaging. I enjoy solving challenging engineering problems, understanding how systems work under the hood, and building software that solves real-world problems.
 
 I graduated from **Elmhurst University** with a B.S. in **Computer Science & Mathematics** (3.97 GPA), earning the Presidential Awards in both disciplines.
 
@@ -40,7 +40,7 @@ I graduated from **Elmhurst University** with a B.S. in **Computer Science & Mat
 
 ### Beyond code
 
-Interested in **low-level programming, computer vision, and financial markets**. I also enjoy competitive programming and building things at hackathons.
+Interested in systems programming, applied AI, and quantitative finance. Outside of work, I enjoy competitive programming, hackathons, and exploring new technologies.
 
 <p align="center">
   <sub>Thanks for stopping by. Explore my repositories or <a href="mailto:aayushacharya1545@gmail.com">say hello</a>.</sub>
