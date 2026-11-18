@@ -14,7 +14,7 @@
 
 ### About
 
-I am a software engineer at **A2Z Imaging**, building software at the intersection of **C++, hardware integration, and medical imaging**. I enjoy working across the stack—from systems and backend services to computer vision and practical AI applications.
+I am a software engineer at **A2Z Imaging**, building software at the intersection of **C++, hardware integration, and medical imaging**. I enjoy working across the stack, from systems and backend services to computer vision and practical AI applications.
 
 I graduated from **Elmhurst University** with a B.S. in **Computer Science & Mathematics** (3.97 GPA), earning the Presidential Awards in both disciplines.
 
