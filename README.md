@@ -45,11 +45,3 @@ Interested in **low-level programming, computer vision, and financial markets**.
 <p align="center">
   <sub>Thanks for stopping by. Explore my repositories or <a href="mailto:aayushacharya1545@gmail.com">say hello</a>.</sub>
 </p>
-
-### Beyond code
-
-Interested in **spectral graph theory, computer vision, and financial markets**. I also enjoy competitive programming and building things at hackathons.
-
-<p align="center">
-  <sub>Thanks for stopping by. Explore my repositories or <a href="mailto:aayushacharya1545@gmail.com">say hello</a>.</sub>
-</p>
